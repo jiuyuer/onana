@@ -1,0 +1,22 @@
+.sidebar {
+  width: 200px;
+  background-color: #001529;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1001;
+  overflow: hidden;
+  box-shadow: 2px 0 6px rgba(0, 21, 41, 0.35);
+  transition: width 0.28s;
+  .title {
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    font-size: 16px;
+    padding: 0 20px;
+    color: #e4e4e4;
+  }
+}
