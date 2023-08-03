@@ -15,7 +15,7 @@
 - 有丰富的前端基础框架搭建实践，前端组件库开发及维护升级相关经验及实践
 - 熟悉 H5 及响应式开发经验，擅长文档撰写和敏捷开发实践经验
 - 工作勤奋、善于思考、责任心强，有团队合作意识及良好的沟通能力
-- 相关技术栈 <span>vue2+vuex+element-ui/vant+webpack</span><span>vue3+Pinia+element-plus/vant+vite</span><span>react+redux+antd+webpack</span>
+- 相关技术栈 <br/><span>vue2+vuex+element-ui/vant+webpack</span><br/><span>vue3+Pinia+element-plus/vant+vite</span><br/><span>react+redux+antd+webpack</span>
 
 ### 其他技能 & 兴趣
 
@@ -35,7 +35,7 @@
 3. 开发前端 UI 组件库，以 npm 依赖包的方式进行升级迭代；
 4. 公共模块系统（短信，邮件，文档等）应用开发，集成到各个业务部门中使用及升级维护
 
-**杭州长亮金融信息服务有限公司** | 高级前端工程师、项目经理<br/>时间：2018 年 4 月 到 2021 年 5 月<br/>
+**杭州长亮金融信息服务有限公司** | 高级前端工程师<br/>时间：2018 年 4 月 到 2021 年 5 月<br/>
 
 岗位职责：
 
@@ -174,5 +174,6 @@
 
 ### 教育背景
 
-2008/09-2011/07&nbsp;&nbsp;&nbsp;&nbsp;浙江工业大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电脑艺术设计专业（大专）<br/>
-2019/09-2021/07&nbsp;&nbsp;&nbsp;&nbsp;天津大学(自考)&nbsp;&nbsp;&nbsp;计算机科学与技术专业（本科）
+2008/09-2011/07<br/>浙江工业大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电脑艺术设计专业（大专）
+
+2019/09-2021/07<br/>天津大学(自考)&nbsp;&nbsp;&nbsp;计算机科学与技术专业（本科）
