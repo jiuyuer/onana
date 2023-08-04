@@ -144,16 +144,44 @@ body {
         color: #202020;
       }
       h3 {
+        display: flex;
+        align-items: center;
         font-size: 20px;
         font-family: 'ZCOOL KuaiLe', serif;
+        svg {
+          fill: currentColor;
+          width: 20px !important;
+          margin-right: 10px;
+          color: #202020;
+          // margin-top: -5px;
+        }
       }
       p {
         line-height: 26px;
         margin-bottom: 10px;
         padding-left: 20px;
+        em {
+          color: #202020;
+          font-weight: bold;
+          font-style: normal;
+          &::before {
+            content: '○';
+            margin-right: 8px;
+          }
+        }
         strong {
           color: #202020;
           font-weight: bold;
+          &::before {
+            // content: '○「」';
+            content: '「';
+            margin-right: 4px;
+          }
+          &::after {
+            // content: '○「」';
+            content: '」';
+            margin-left: 4px;
+          }
         }
       }
       ul,
